@@ -1,0 +1,16 @@
+D:\ForTest\LeetCodeTest\LeetCodeTest\bin\Debug\net5.0\LeetCodeTest.exe
+D:\ForTest\LeetCodeTest\LeetCodeTest\bin\Debug\net5.0\LeetCodeTest.deps.json
+D:\ForTest\LeetCodeTest\LeetCodeTest\bin\Debug\net5.0\LeetCodeTest.runtimeconfig.json
+D:\ForTest\LeetCodeTest\LeetCodeTest\bin\Debug\net5.0\LeetCodeTest.runtimeconfig.dev.json
+D:\ForTest\LeetCodeTest\LeetCodeTest\bin\Debug\net5.0\LeetCodeTest.dll
+D:\ForTest\LeetCodeTest\LeetCodeTest\bin\Debug\net5.0\ref\LeetCodeTest.dll
+D:\ForTest\LeetCodeTest\LeetCodeTest\bin\Debug\net5.0\LeetCodeTest.pdb
+D:\ForTest\LeetCodeTest\LeetCodeTest\obj\Debug\net5.0\LeetCodeTest.csprojAssemblyReference.cache
+D:\ForTest\LeetCodeTest\LeetCodeTest\obj\Debug\net5.0\LeetCodeTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\ForTest\LeetCodeTest\LeetCodeTest\obj\Debug\net5.0\LeetCodeTest.AssemblyInfoInputs.cache
+D:\ForTest\LeetCodeTest\LeetCodeTest\obj\Debug\net5.0\LeetCodeTest.AssemblyInfo.cs
+D:\ForTest\LeetCodeTest\LeetCodeTest\obj\Debug\net5.0\LeetCodeTest.csproj.CoreCompileInputs.cache
+D:\ForTest\LeetCodeTest\LeetCodeTest\obj\Debug\net5.0\LeetCodeTest.dll
+D:\ForTest\LeetCodeTest\LeetCodeTest\obj\Debug\net5.0\ref\LeetCodeTest.dll
+D:\ForTest\LeetCodeTest\LeetCodeTest\obj\Debug\net5.0\LeetCodeTest.pdb
+D:\ForTest\LeetCodeTest\LeetCodeTest\obj\Debug\net5.0\LeetCodeTest.genruntimeconfig.cache
